@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="Deere">
+    <copyright>
+      <option name="keyword" value="(c)" />
+      <option name="notice" value="Unpublished Work (c) &amp;#36;today.year Deere &amp;amp; Company" />
+    </copyright>
+    <LanguageOptions name="__TEMPLATE__">
+      <option name="block" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
